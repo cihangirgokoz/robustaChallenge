@@ -38,7 +38,7 @@ Respone:
 ```json
 {
     "result": "success",
-    "value": "yeni yazı deneme3"
+    "value": "yeni yazı deneme2"
 }
 ```
 ```sh
